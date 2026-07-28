@@ -1,0 +1,6 @@
+Invoking command in '/root/workspaces/slam_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/slam_ws/src/slam_toolbox_demo -DCMAKE_INSTALL_PREFIX=/root/workspaces/slam_ws/install/slam_toolbox_demo
+Invoked command in '/root/workspaces/slam_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/slam_ws/src/slam_toolbox_demo -DCMAKE_INSTALL_PREFIX=/root/workspaces/slam_ws/install/slam_toolbox_demo
+Invoking command in '/root/workspaces/slam_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/slam_ws/build/slam_toolbox_demo -- -j4 -l4
+Invoked command in '/root/workspaces/slam_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/slam_ws/build/slam_toolbox_demo -- -j4 -l4
+Invoking command in '/root/workspaces/slam_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/slam_ws/build/slam_toolbox_demo
+Invoked command in '/root/workspaces/slam_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/slam_ws/build/slam_toolbox_demo

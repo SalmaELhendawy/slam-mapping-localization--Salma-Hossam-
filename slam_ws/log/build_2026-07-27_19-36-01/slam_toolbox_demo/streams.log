@@ -1,0 +1,50 @@
+[0.360s] Invoking command in '/root/workspaces/slam_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/slam_ws/src/slam_toolbox_demo -DCMAKE_INSTALL_PREFIX=/root/workspaces/slam_ws/install/slam_toolbox_demo
+[0.824s] -- The C compiler identification is GNU 13.3.0
+[1.217s] -- The CXX compiler identification is GNU 13.3.0
+[1.312s] -- Detecting C compiler ABI info
+[2.445s] -- Detecting C compiler ABI info - done
+[2.476s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.476s] -- Detecting C compile features
+[2.476s] -- Detecting C compile features - done
+[2.555s] -- Detecting CXX compiler ABI info
+[3.670s] -- Detecting CXX compiler ABI info - done
+[3.694s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.694s] -- Detecting CXX compile features
+[3.694s] -- Detecting CXX compile features - done
+[3.835s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[4.295s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[5.361s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[6.272s] -- Added test 'flake8' to check Python code syntax and style conventions
+[6.287s] -- Configured 'flake8' exclude dirs and/or files: 
+[6.305s] -- Added test 'lint_cmake' to check CMake code style
+[6.330s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[6.396s] -- Added test 'xmllint' to check XML markup files
+[6.614s] -- Configuring done (6.2s)
+[7.298s] -- Generating done (0.6s)
+[7.618s] -- Build files have been written to: /root/workspaces/slam_ws/build/slam_toolbox_demo
+[7.625s] Invoked command in '/root/workspaces/slam_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/workspaces/slam_ws/src/slam_toolbox_demo -DCMAKE_INSTALL_PREFIX=/root/workspaces/slam_ws/install/slam_toolbox_demo
+[7.630s] Invoking command in '/root/workspaces/slam_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/slam_ws/build/slam_toolbox_demo -- -j4 -l4
+[7.744s] Invoked command in '/root/workspaces/slam_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/workspaces/slam_ws/build/slam_toolbox_demo -- -j4 -l4
+[7.776s] Invoking command in '/root/workspaces/slam_ws/build/slam_toolbox_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/slam_ws/build/slam_toolbox_demo
+[7.807s] -- Install configuration: ""
+[7.821s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/launch
+[7.846s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/launch/slam_toolbox_online_async.launch.py
+[7.889s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/config
+[7.914s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/config/slam_toolbox_online_async.yaml
+[7.957s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/map
+[8.001s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/ament_index/resource_index/package_run_dependencies/slam_toolbox_demo
+[8.064s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/ament_index/resource_index/parent_prefix_path/slam_toolbox_demo
+[8.125s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/ament_prefix_path.sh
+[8.172s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/ament_prefix_path.dsv
+[8.221s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/path.sh
+[8.267s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/environment/path.dsv
+[8.312s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.bash
+[8.358s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.sh
+[8.420s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.zsh
+[8.473s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/local_setup.dsv
+[8.525s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/package.dsv
+[8.590s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/ament_index/resource_index/packages/slam_toolbox_demo
+[8.642s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/cmake/slam_toolbox_demoConfig.cmake
+[8.700s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/cmake/slam_toolbox_demoConfig-version.cmake
+[8.747s] -- Installing: /root/workspaces/slam_ws/install/slam_toolbox_demo/share/slam_toolbox_demo/package.xml
+[8.804s] Invoked command in '/root/workspaces/slam_ws/build/slam_toolbox_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/workspaces/slam_ws/build/slam_toolbox_demo
